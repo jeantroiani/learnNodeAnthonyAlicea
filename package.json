@@ -1,11 +1,24 @@
 {
   "name": "learn_node_anthony",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeantroiani/learnNodeAnthonyAlicea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeantroiani/learnNodeAnthonyAlicea/issues"
+  },
+  "homepage": "https://github.com/jeantroiani/learnNodeAnthonyAlicea",
+  "dependencies": {
+    "moment": "^2.10.6"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }

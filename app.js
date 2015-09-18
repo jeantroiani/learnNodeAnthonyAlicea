@@ -34,7 +34,7 @@
 
 
 //JSON
-var json = require('./chapters/63_json');
+// var json = require('./chapters/63_json');
 
-//Temaplates
-// var templates = require('./chapters/60_templates');
+//Routing
+var routing = require('./chapters/64_routing');
