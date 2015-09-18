@@ -1,7 +1,7 @@
 //Node 4.0 Strings in ES6
 
-	//var templateStringES6 = require('./chapters/37_templateStringsInES6');
-	//templateStringES6();
+	// var templateStringES6 = require('./chapters/37_templateStringsInES6');
+	// templateStringES6();
 
 //ES6 Classes
 
@@ -21,4 +21,16 @@
 
 
 //Pipes
-	var pipes = require('./chapters/53_pipes');
+	// var pipes = require('./chapters/53_pipes'); 
+	
+//HttpServer
+	// var http = require('./chapters/59_buildingAHTTPServer');
+
+//Temaplates
+	// var templates = require('./chapters/60_templates');
+
+//Streams and Performance
+	var streamsPerformance = require('./chapters/61_streams_performance');
+
+//Temaplates
+// var templates = require('./chapters/60_templates');
