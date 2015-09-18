@@ -26,11 +26,15 @@
 //HttpServer
 	// var http = require('./chapters/59_buildingAHTTPServer');
 
-//Temaplates
+//Templates
 	// var templates = require('./chapters/60_templates');
 
 //Streams and Performance
-	var streamsPerformance = require('./chapters/61_streams_performance');
+	// var streamsPerformance = require('./chapters/61_streams_performance');
+
+
+//JSON
+var json = require('./chapters/63_json');
 
 //Temaplates
 // var templates = require('./chapters/60_templates');
