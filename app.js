@@ -52,5 +52,7 @@
 // var expressRouting = require('./chapters/75_static_files_middleware');
 
 // Express static files
-var templates = require('./chapters/76_templates');
+// var templates = require('./chapters/76_templates');
 
+// Express static files
+var querystring = require('./chapters/77_querystring');

@@ -15,9 +15,5 @@ app.get('/person/:id', function (req, res) {
 	res.render('person', {ID : req.params.id});
 });
 
-app.get('/api', function (req, res) {
-	res.json({name:'Jean', lastName: 'Troiani'});
-});
-
 app.listen(port);
 
