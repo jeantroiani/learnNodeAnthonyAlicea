@@ -48,6 +48,9 @@
 // var expressRouting = require('./chapters/74_routing')
 
 
-// Express routing
-var expressRouting = require('./chapters/75_static_files_middleware');
+// Express static files
+// var expressRouting = require('./chapters/75_static_files_middleware');
+
+// Express static files
+var templates = require('./chapters/76_templates');
 
